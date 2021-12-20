@@ -12,7 +12,7 @@ library(ggplot2)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("Brand Personality Profile"),
+    titlePanel("Brand Personality Profile Checker"),
 
     sidebarLayout(
         # Sidebar with a drop-down menu to select a brand
